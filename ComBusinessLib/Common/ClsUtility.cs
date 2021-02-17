@@ -8,6 +8,6 @@ namespace BlazorWebApi.Common
 {
     public class ClsUtility
     {
-        public  static string strTest = "테스트 입니다.";
+        public  static string strTest = "테스트 입니다.11111";
     }
 }
